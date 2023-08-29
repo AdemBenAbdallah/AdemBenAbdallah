@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adem Ben Abdallah</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate Full Stack developer from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/pT_eK7L76OEAAAAd/coding-computer-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adembenabdallah&label=Profile%20views&color=0e75b6&style=flat" alt="adembenabdallah" /> </p>
