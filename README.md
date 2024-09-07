@@ -11,10 +11,3 @@
 - 👯 I’m looking to collaborate on **exciting projects that allow me to contribute my skills and expertise.**
 
 - 📫 How to reach me **adembenabdallah.contact@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adem-ben-abdallah-a3153023a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adem-ben-abdallah-a3153023a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/adem_ben_abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adem_ben_abdallah" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/adembenabdallah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="adembenabdallah1" height="30" width="40" /></a>
-</p>
